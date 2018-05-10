@@ -1,0 +1,513 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.9.25)  9 FEB 2018 13:18
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Backpropagation.tex
+(./Backpropagation.tex
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 4 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 96.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2016/07/10 v0.06j Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/06/28 v2.15d AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen105
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen106
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen107
+LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks16
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks17
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
+\@envbody=\toks18
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2739.
+LaTeX Info: Redefining \] on input line 2740.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2015/11/12 v1.18 mathematical typesetting tools
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count100
+\calc@Bcount=\count101
+\calc@Adimen=\dimen114
+\calc@Bdimen=\dimen115
+\calc@Askip=\skip46
+\calc@Bskip=\skip47
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count102
+\calc@Cskip=\skip48
+)
+(/usr/share/texlive/texmf-dist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2010/01/21 v1.2a programming setup (MH)
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
+\g_MT_multlinerow_int=\count103
+\l_MT_multwidth_dim=\dimen116
+\origjot=\skip49
+\l_MT_shortvdotswithinadjustabove_dim=\dimen117
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen118
+\l_MT_above_intertext_sep=\dimen119
+\l_MT_below_intertext_sep=\dimen120
+\l_MT_above_shortintertext_sep=\dimen121
+\l_MT_below_shortintertext_sep=\dimen122
+)
+(/usr/share/texlive/texmf-dist/tex/latex/datetime/datetime.sty
+Package: datetime 2015/03/20 v2.60 Date Time Package
+
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count104
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fmtcount/fmtcount.sty
+Package: fmtcount 2015/05/05 v3.01
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks20
+\XKV@tempa@toks=\toks21
+)
+\XKV@depth=\count105
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/fmtcount/fcprefix.sty
+Package: fcprefix 2012/09/28
+
+(/usr/share/texlive/texmf-dist/tex/latex/fmtcount/fcnumparser.sty
+Package: fcnumparser 2012/09/28
+\fc@digit@counter=\count106
+))
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\c@padzeroesN=\count107
+\fc@tmpcatcode=\count108
+\@DT@modctr=\count109
+\@ordinalctr=\count110
+\@orgargctr=\count111
+\@strctr=\count112
+\@tmpstrctr=\count113
+\@DT@loopN=\count114
+\@DT@X=\count115
+
+(/usr/share/texlive/texmf-dist/tex/latex/fmtcount/fc-english.def
+File: fc-english.def 2013/08/17
+))
+(/usr/share/texlive/texmf-dist/tex/latex/datetime/datetime-defaults.sty
+Package: datetime-defaults 2013/09/10
+)
+\@day=\count116
+\@month=\count117
+\@year=\count118
+\c@HOUR=\count119
+\c@HOURXII=\count120
+\c@MINUTE=\count121
+\c@TOHOUR=\count122
+\c@TOMINUTE=\count123
+\c@SECOND=\count124
+\currenthour=\count125
+\currentminute=\count126
+\currentsecond=\count127
+Package datetime Info: No datetime.cfg file found, using default settings on in
+put line 308.
+\@dtctr=\count128
+\dayofyear=\count129
+\dayofweek=\count130
+LaTeX Info: Redefining \today on input line 736.
+\dt@a=\toks22
+\dt@b=\toks23
+)
+(/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
+Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count131
+)
+(./Backpropagation.aux)
+\openout1 = `Backpropagation.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count132
+\scratchdimen=\dimen123
+\scratchbox=\box28
+\nofMPsegments=\count133
+\nofMParguments=\count134
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count135
+\MPscratchDim=\dimen124
+\MPnumerator=\count136
+\makeMPintoPDFobject=\count137
+\everyMPtoPDFconversion=\toks25
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    Try loading font information for U+msa on input line 27.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 27.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+{/usr/share/texlive/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}] (./Backprop
+agation.toc)
+\tf@toc=\write3
+\openout3 = `Backpropagation.toc'.
+
+
+[1] <images/neuralnetwork.png, id=18, 826.08624pt x 457.71pt>
+File: images/neuralnetwork.png Graphic file (type png)
+
+<use images/neuralnetwork.png>
+Package pdftex.def Info: images/neuralnetwork.png used on input line 35.
+(pdftex.def)             Requested size: 247.82777pt x 137.31406pt.
+
+<images/activation_output.png, id=19, 463.7325pt x 502.87875pt>
+File: images/activation_output.png Graphic file (type png)
+
+<use images/activation_output.png>
+Package pdftex.def Info: images/activation_output.png used on input line 45.
+(pdftex.def)             Requested size: 139.12082pt x 150.86478pt.
+
+<images/weights.png, id=20, 458.71375pt x 458.71375pt>
+File: images/weights.png Graphic file (type png)
+
+<use images/weights.png>
+Package pdftex.def Info: images/weights.png used on input line 53.
+(pdftex.def)             Requested size: 183.48224pt x 183.48224pt.
+ [2 <./images/neuralnetwork.png (PNG copy)> <./images/activation_output.png (PN
+G copy)>]
+<images/biases.png, id=24, 458.71375pt x 459.7175pt>
+File: images/biases.png Graphic file (type png)
+ <use images/biases.png>
+Package pdftex.def Info: images/biases.png used on input line 70.
+(pdftex.def)             Requested size: 183.48224pt x 183.88373pt.
+
+<images/activation_input.png, id=25, 461.725pt x 463.7325pt>
+File: images/activation_input.png Graphic file (type png)
+
+<use images/activation_input.png>
+Package pdftex.def Info: images/activation_input.png used on input line 83.
+(pdftex.def)             Requested size: 184.68672pt x 185.4897pt.
+ [3 <./images/weights.png (PNG copy)> <./images/biases.png (PNG copy)>]
+<images/layer_1.png, id=35, 460.72125pt x 474.77374pt>
+File: images/layer_1.png Graphic file (type png)
+
+<use images/layer_1.png>
+Package pdftex.def Info: images/layer_1.png used on input line 102.
+(pdftex.def)             Requested size: 184.28523pt x 189.90613pt.
+ [4 <./images/activation_input.png (PNG copy)> <./images/layer_1.png (PNG copy)
+>] <images/layer_2.png, id=39, 471.7625pt x 461.725pt>
+File: images/layer_2.png Graphic file (type png)
+
+<use images/layer_2.png>
+Package pdftex.def Info: images/layer_2.png used on input line 150.
+(pdftex.def)             Requested size: 188.70164pt x 184.68672pt.
+ [5 <./images/layer_2.png (PNG copy)>]
+<images/layer_3.png, id=43, 459.7175pt x 461.725pt>
+File: images/layer_3.png Graphic file (type png)
+ <use images/layer_3.png>
+Package pdftex.def Info: images/layer_3.png used on input line 172.
+(pdftex.def)             Requested size: 183.88373pt x 184.68672pt.
+
+<images/notation_1.png, id=44, 829.0975pt x 390.45876pt>
+File: images/notation_1.png Graphic file (type png)
+
+<use images/notation_1.png>
+Package pdftex.def Info: images/notation_1.png used on input line 183.
+(pdftex.def)             Requested size: 331.63313pt x 156.18073pt.
+ [6 <./images/layer_3.png (PNG copy)> <./images/notation_1.png (PNG copy)>] <im
+ages/grad_ctow.png, id=49, 349.305pt x 340.27126pt>
+File: images/grad_ctow.png Graphic file (type png)
+
+<use images/grad_ctow.png>
+Package pdftex.def Info: images/grad_ctow.png used on input line 227.
+(pdftex.def)             Requested size: 139.71951pt x 136.10608pt.
+ [7]
+<images/grad_ztow_input.png, id=53, 271.0125pt x 263.98625pt>
+File: images/grad_ztow_input.png Graphic file (type png)
+
+<use images/grad_ztow_input.png>
+Package pdftex.def Info: images/grad_ztow_input.png used on input line 242.
+(pdftex.def)             Requested size: 135.5059pt x 131.9928pt.
+
+<images/grad_ztow_hidden.png, id=54, 295.1025pt x 283.0575pt>
+File: images/grad_ztow_hidden.png Graphic file (type png)
+
+<use images/grad_ztow_hidden.png>
+Package pdftex.def Info: images/grad_ztow_hidden.png used on input line 253.
+(pdftex.def)             Requested size: 147.55087pt x 141.5284pt.
+ [8 <./images/grad_ctow.png (PNG copy)> <./images/grad_ztow_input.png (PNG copy
+)>]
+<images/delta.png, id=60, 821.0675pt x 414.54875pt>
+File: images/delta.png Graphic file (type png)
+ <use images/delta.png>
+Package pdftex.def Info: images/delta.png used on input line 269.
+(pdftex.def)             Requested size: 328.42119pt x 165.81656pt.
+
+<images/grad_last.png, id=61, 116.8365pt x 227.04825pt>
+File: images/grad_last.png Graphic file (type png)
+
+<use images/grad_last.png>
+Package pdftex.def Info: images/grad_last.png used on input line 282.
+(pdftex.def)             Requested size: 58.4181pt x 113.52383pt.
+ [9 <./images/grad_ztow_hidden.png (PNG copy)> <./images/delta.png (PNG copy)>]
+
+<images/grad_delta.png, id=66, 198.14024pt x 222.8325pt>
+File: images/grad_delta.png Graphic file (type png)
+
+<use images/grad_delta.png>
+Package pdftex.def Info: images/grad_delta.png used on input line 328.
+(pdftex.def)             Requested size: 118.88504pt x 133.70053pt.
+ [10 <./images/grad_last.png> <./images/grad_delta.png>]
+Overfull \hbox (12.1972pt too wide) detected at line 391
+\OML/cmm/m/it/10 ^^N[] \OT1/cmr/m/n/10 = [] = [] \OMS/cmsy/m/n/10 ^^L []
+ []
+
+[11] <images/new_neuron.png, id=76, 503.481pt x 221.02576pt>
+File: images/new_neuron.png Graphic file (type png)
+
+<use images/new_neuron.png>
+Package pdftex.def Info: images/new_neuron.png used on input line 401.
+(pdftex.def)             Requested size: 302.09093pt x 132.61647pt.
+
+Overfull \hbox (13.05363pt too wide) in paragraph at lines 403--404
+\OT1/cmr/m/n/10 The re-la-tion-ship be-tween the layer $\OML/cmm/m/it/10 l$ \OT
+1/cmr/m/n/10 and layer $\OML/cmm/m/it/10 l \OT1/cmr/m/n/10 + 1$ (e.g., $\OML/cm
+m/m/it/10 ^^N[] \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 ^^[[]\OT1/cmr/m/n/10 (\OML/c
+mm/m/it/10 z[]\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10 ^^L \OT1/cmr/m/n/10 [(\OML/cmm
+/m/it/10 W[]\OT1/cmr/m/n/10 )[]\OML/cmm/m/it/10 ^^N[]\OT1/cmr/m/n/10 ]$)
+ []
+
+<images/new_layer.png, id=77, 230.66174pt x 252.945pt>
+File: images/new_layer.png Graphic file (type png)
+
+<use images/new_layer.png>
+Package pdftex.def Info: images/new_layer.png used on input line 405.
+(pdftex.def)             Requested size: 138.3981pt x 151.76816pt.
+
+<images/forward.png, id=78, 352.31625pt x 359.3425pt>
+File: images/forward.png Graphic file (type png)
+ <use images/forward.png>
+Package pdftex.def Info: images/forward.png used on input line 412.
+(pdftex.def)             Requested size: 140.924pt x 143.73445pt.
+
+[12 <./images/new_neuron.png> <./images/new_layer.png>]
+<images/backward.png, id=85, 386.44376pt x 408.52625pt>
+File: images/backward.png Graphic file (type png)
+
+<use images/backward.png>
+Package pdftex.def Info: images/backward.png used on input line 420.
+(pdftex.def)             Requested size: 154.57475pt x 163.4076pt.
+ [13 <./images/forward.png (PNG copy)> <./images/backward.png (PNG copy)>] <ima
+ges/summary.png, id=89, 912.40875pt x 623.32875pt>
+File: images/summary.png Graphic file (type png)
+
+<use images/summary.png>
+Package pdftex.def Info: images/summary.png used on input line 455.
+(pdftex.def)             Requested size: 319.34784pt x 218.16832pt.
+ [14 <./images/summary.png (PNG copy)>]
+(./Backpropagation.aux) ) 
+Here is how much of TeX's memory you used:
+ 4453 strings out of 494911
+ 62621 string characters out of 6180105
+ 246528 words of memory out of 5000000
+ 7643 multiletter control sequences out of 15000+600000
+ 11503 words of font info for 45 fonts, out of 8000000 for 9000
+ 34 hyphenation exceptions out of 8191
+ 38i,16n,35p,1016b,295s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex
+10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on Backpropagation.pdf (15 pages, 10302548 bytes).
+PDF statistics:
+ 150 PDF objects out of 1000 (max. 8388607)
+ 90 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 101 words of extra memory for PDF output out of 10000 (max. 10000000)
+

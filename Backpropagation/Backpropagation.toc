@@ -1,0 +1,22 @@
+\contentsline {section}{\numberline {1}Network Structure}{2}
+\contentsline {section}{\numberline {2}Notations}{2}
+\contentsline {subsection}{\numberline {2.1}Output of activation}{2}
+\contentsline {subsection}{\numberline {2.2}Weights}{3}
+\contentsline {subsection}{\numberline {2.3}Biases}{3}
+\contentsline {subsection}{\numberline {2.4}Input of activation}{4}
+\contentsline {subsection}{\numberline {2.5}Relations between layers}{4}
+\contentsline {subsection}{\numberline {2.6}Summary of notation}{6}
+\contentsline {section}{\numberline {3}Three gradient descent approaches}{7}
+\contentsline {subsection}{\numberline {3.1}Gradient descent}{7}
+\contentsline {subsection}{\numberline {3.2}Stochastic gradient descent}{7}
+\contentsline {subsection}{\numberline {3.3}Mini-batch gradient descent}{7}
+\contentsline {section}{\numberline {4}Backpropagation}{7}
+\contentsline {subsection}{\numberline {4.1}Partial derivative of $C_r$ w.r.t $w^l_{ij}$}{8}
+\contentsline {subsection}{\numberline {4.2}Partial derivative of $z^l_i$ w.r.t $w^l_{ij}$}{8}
+\contentsline {subsubsection}{\numberline {4.2.1}Input layer}{8}
+\contentsline {subsubsection}{\numberline {4.2.2}Hidden layer}{9}
+\contentsline {subsection}{\numberline {4.3}Partial derivative of $C_r$ w.r.t $z^l_{i}$}{9}
+\contentsline {subsubsection}{\numberline {4.3.1}Computing $\delta ^L$ (output layer)}{10}
+\contentsline {subsubsection}{\numberline {4.3.2}Relationship between $\delta ^{l+1}$ and $\delta ^l$}{10}
+\contentsline {subsubsection}{\numberline {4.3.3}Another viewpoint}{12}
+\contentsline {section}{\numberline {5}Summary}{13}
